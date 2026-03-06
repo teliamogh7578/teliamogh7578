@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">## About Me<br><br>- 🔭 I’m currently working on **full-stack projects and improving my problem-solving skills**<br>- 🌱 I’m currently learning **Machine Learning, React, and deeper JavaScript concepts**<br>- 👯 I’m looking to collaborate on **interesting open-source or student tech projects**<br>- 🤔 I’m looking for help with **scaling projects and writing cleaner production-level code**<br>- 💬 Ask me about **Python, JavaScript, beginner AI/ML, or project building**<br>- 📫 How to reach me: **LinkedIn or email**</p>
+<p align="left">## About Me<br><br>- 🔭 I’m currently working on full-stack projects and improving my problem-solving skills <br>- 🌱 I’m currently learning **Machine Learning, React, and deeper JavaScript concepts**<br>- 👯 I’m looking to collaborate on interesting open-source or student tech projects <br>- 🤔 I’m looking for help with scaling projects and writing cleaner production-level code <br>- 💬 Ask me about Python, JavaScript, beginner AI/ML, or project building<br>- 📫 How to reach me: LinkedIn or email </p>
 
 ###
 
